@@ -2,8 +2,6 @@
 
 A beautiful and functional weather application that displays real-time weather data.
 
-[Weather App](Weather.png)
-
 ✨ Features
 
 - Real-time weather data
