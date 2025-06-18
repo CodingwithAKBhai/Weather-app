@@ -2,7 +2,7 @@
 
 A beautiful and functional weather application that displays real-time weather data.
 
-![Weather App Screenshot](screenshot.png) <!-- Add if you have a screenshot -->
+![Weather App Screenshot](Weather.png) <!-- Add if you have a screenshot -->
 
 ✨ Features
 
