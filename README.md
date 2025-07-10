@@ -16,9 +16,3 @@ A beautiful and functional weather application that displays real-time weather d
 - CSS3
 - JavaScript (ES6+)
 - [OpenWeatherMap API](https://openweathermap.org/) (or whichever API you used)
-
-🚀 How to Use
-
-1. Download or clone the project:
-   ```bash
-   git clone https://github.com/CodingwithAKBhai/Weather-app.git
